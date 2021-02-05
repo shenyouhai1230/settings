@@ -3,35 +3,23 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="http://gitee.com" />
-          <option name="userName" value="FutaoSmile" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://dt-git.byton.cn" />
-          <option name="userName" value="jerryx" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="FutaoSmile" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@github.com:fuzhengwei/itstack-demo-bytecode.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@gitlab.99zmall.com:always-asg/always/wsp.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://gitlab.baoflag.com" />
-          <option name="userName" value="1185172056@qq.com" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@gitee.com:FutaoSmile/maozzi-demo.git" />
-          <option name="userName" value="" />
+          <option name="url" value="http://182.61.54.106:3000" />
+          <option name="userName" value="yanghuixiang" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/src/backend/fun" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
